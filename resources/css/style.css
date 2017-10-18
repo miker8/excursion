@@ -32,6 +32,7 @@ font-weight: 300;
 p .download-link {
 font-size: 16px;
 color: aquamarine;
+font-weight: bold;
 }
 
 .copywrite {
