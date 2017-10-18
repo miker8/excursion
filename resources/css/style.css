@@ -1,0 +1,39 @@
+html {
+font-family: Verdana;
+}
+
+body {
+background-color: black;
+color: white;
+text-align: center;
+}
+
+
+
+p {
+font-size: 21px;
+}
+
+p,
+.copywrite {
+color: grey;
+}
+
+.main-heading {
+font-weight: normal;
+font-size: 50px;
+}
+
+.sub-heading {
+font-size: 42px;
+font-weight: 300;
+}
+
+p .download-link {
+font-size: 16px;
+color: aquamarine;
+}
+
+.copywrite {
+text-align: right;
+}
